@@ -1,3 +1,6 @@
 log/
 build/
 install/
+
+# Downloaded/exported archives, not source
+*.zip
